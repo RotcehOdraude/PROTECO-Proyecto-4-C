@@ -17,7 +17,7 @@ void mediana(float *arreglo,float *medi,int tamanio);
 int main(int argc, char const *argv[]) {
   float median[2]={0,0};
   int opcion = 0,dimension = 0;
-  printf("###### Esta es una calculadora que hace operaciones estadisticas #######\n" );
+  printf("####### Esta es una calculadora que hace operaciones estadisticas #######\n" );
   printf("Por favor escriba la dimensiona del arreglo\n\t:", );
   scanf("%i",&dimension);
   float valores[dimension]={0,0,0,0,0,0,0,0,0,0};
