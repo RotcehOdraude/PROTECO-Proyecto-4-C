@@ -1,0 +1,20 @@
+Simular el juego de BlackJack (Total: 100%).
+Consideraciones:
+Dos jugadores
+La baraja mínima a utilizar será de 4 palos con 10 cartas cada uno (10% extra si se utilizan las cartas J, Q y K).
+Se debe generar la baraja de manera aleatoria.
+Flujo del programa:
+Al inicio del programa, se tendrán las opciones de iniciar juego y salir.
+Al iniciar el juego, se le entregarán dos cartas desde la baraja a cada jugador.
+A continuación se tendrán las siguientes opciones:
+Hit: Se le entregará otra carta al jugador.
+Stand: Se le dejarán de entregar cartas al jugador.
+El paso e se seguirá repitiendo hasta que ambos jugadores 
+seleccionen la opción “Stand”, o la suma del valor de sus cartas de algún jugador sea igual o mayor a 21.
+Para determinar el ganador:
+Gana el jugador cuya suma sea igual a 21.
+Si ningún jugador suma 21, gana el más cercano a 21, sin exceder 21.
+Si un jugador suma menos de 21 y el otro suma más de 21, gana el primero.
+Si ambos jugadores suman más de 21, ninguno gana.
+Al finalizar, se podrá decidir si el juego se repite o no.
+

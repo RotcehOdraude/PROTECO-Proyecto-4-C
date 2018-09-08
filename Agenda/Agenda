@@ -1,0 +1,5 @@
+Implementación de la agenda con memoria dinámica. (Total: 50%)
+El programa tendrá un flujo similar al realizado en el proyecto 3, con las siguientes especificaciones adicionales:
+La creación de la agenda deberá ser con memoria dinámica (Valor: 25%)
+Al ingresar la opción “Ingresar contactos”, los contactos ingresados deberán añadirse a los ya existentes (no se deberán sobreescribir). (Valor: 25%)
+
